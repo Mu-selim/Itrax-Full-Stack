@@ -1,0 +1,39 @@
+.container {
+    background-color: #fff;
+    width: 100%;
+    height: 50vh;
+    margin-top: 12%;
+}
+
+.block {
+    background-color: rgb(251, 247, 255);
+    width: 20%;
+    height: 100%;
+    float: left;
+    margin: 0 2.5% ;
+}
+
+.block:hover {
+    background-color: rgb(243, 231, 255);
+}
+
+.imgBox {
+    width: 70px;
+    height: 70px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.headerBox {
+    margin-left: 80px;
+}
+
+.web {
+    margin-left: 61px;
+}
+
+.paragraphBox {
+    margin-left: 50px;
+    margin-right: 20px;
+    color: rgb(51, 51, 51);
+}

@@ -1,0 +1,16 @@
+.width-hight {
+    width: 200px;
+    height: 200px;
+}
+
+.green {
+    background-color: rgb(0,255, 0);
+}
+
+.red {
+    background-color: rgb(255, 0, 0);
+}
+
+.blue {
+    background-color: rgb(0, 0, 255);
+}
